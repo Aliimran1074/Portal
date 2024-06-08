@@ -1,0 +1,31 @@
+{
+    "students": [
+      {
+        "name": "John Doe",
+        "age": 20,
+        "major": "Computer Science",
+        "gpa": 3.8
+      },
+      {
+        "name": "Jane Smith",
+        "age": 21,
+        "major": "Electrical Engineering",
+        "gpa": 3.5
+      }
+    ],
+    "books": [
+      {
+        "title": "1984",
+        "author": "George Orwell",
+        "published_year": 1949,
+        "genre": "Dystopian Fiction"
+      },
+      {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "published_year": 1960,
+        "genre": "Southern Gothic"
+      }
+    ]
+  }
+  
